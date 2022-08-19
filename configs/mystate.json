@@ -1,0 +1,63 @@
+{
+    "2068152558": {
+        "2068152558": {
+            "state": "RegisterState:location",
+            "data": {
+                "name": "dehjgcwye",
+                "surname": "weidcbei",
+                "language": "english",
+                "phone": {
+                    "phone_number": "+998946500207",
+                    "first_name": "_\ud835\udd43\ud835\udd52\ud835\udd55\ud835\udd6a...\u25e1\u0308\u20dd\u20dd\u20dd\u20dd",
+                    "user_id": 2068152558
+                },
+                "location": {
+                    "latitude": 41.326593,
+                    "longitude": 69.228416
+                }
+            },
+            "bucket": {}
+        }
+    },
+    "101753029": {
+        "101753029": {
+            "state": "RegisterState:location",
+            "data": {
+                "name": "Sukhrob",
+                "surname": "Eshboev",
+                "language": "uzbek",
+                "phone": {
+                    "phone_number": "998946443431",
+                    "first_name": "Sukhrob ( \uc218\ud750\ub85c\ube0c )",
+                    "last_name": "Eshboev",
+                    "user_id": 101753029
+                },
+                "location": {
+                    "latitude": 41.28842,
+                    "longitude": 69.220346
+                }
+            },
+            "bucket": {}
+        }
+    },
+    "1685321102": {
+        "1685321102": {
+            "state": "RegisterState:location",
+            "data": {
+                "name": "Begzod",
+                "surname": "Eshboyev",
+                "language": "uzbek",
+                "phone": {
+                    "phone_number": "998932474636",
+                    "first_name": "Bekhzod_Eshboev",
+                    "user_id": 1685321102
+                },
+                "location": {
+                    "latitude": 41.288898,
+                    "longitude": 69.20884
+                }
+            },
+            "bucket": {}
+        }
+    }
+}
